@@ -15,9 +15,11 @@
     * model_deploy.py - deployment file where the functions and keras model being load, this can be futher use in the future to apply the model
 	* dl_customer_segmentation.ipynb - model training file in ipython or jupyter notebook format with example output
 
-* Folder model - include the saved model resulting from the project, assessment2_model.h5
+* Folder model - include the saved model resulting from the project, assessment3_model.h5
 
 * Folder screenshots - include screenshots of model performance, tensorboard training process and model architecture results
+
+* Folder function - include .pkl files
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
