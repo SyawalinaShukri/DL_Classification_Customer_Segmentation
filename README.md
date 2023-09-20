@@ -58,8 +58,24 @@ Project Link: [https://github.com/SyawalinaShukri/DL_Classification_Customer_Seg
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Model Accuracy -->
+## Model Accuracy
+![model_accuracy](https://github.com/SyawalinaShukri/DL_Classification_Customer_Segmentation/assets/95696153/92af8a1e-aadf-41cb-b1e9-351e4c7ef3ae)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Model Performance -->
+## Model Performance
+![model_performance](https://github.com/SyawalinaShukri/DL_Classification_Customer_Segmentation/assets/95696153/5f1a9843-4af6-4479-922f-5dab6458d657)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- Model Architecture -->
 ## Model Architecture
+![model_architecture](https://github.com/SyawalinaShukri/DL_Classification_Customer_Segmentation/assets/95696153/e94fe3ea-05c4-4d07-a2fc-d15832057ef3)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
